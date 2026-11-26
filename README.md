@@ -1,4 +1,4 @@
-# self-watering-plant-trl4
+# self-watering-plant-trl3
 # Self-Watering Plant System
 
 ### Low-Cost Sustainable Irrigation Prototype
